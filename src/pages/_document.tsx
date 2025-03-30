@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
-          <link rel="icon" type="image/svg+xml" href="/beaver.svg" />
+          <link rel="icon" type="image/svg+xml" href="/favicon.png" />
           <link
             rel="alternate"
             type="application/rss+xml"
