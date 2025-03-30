@@ -58,7 +58,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "xeongjae/XLOG",
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "xeongjae/XLOG",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
