@@ -4,7 +4,7 @@ const CONFIG = {
     name: "xeongjae",
     image: "/biber.png",
     role: "frontend developer",
-    bio: "프론트엔드 전반에 관심있습니다.",
+    bio: "🪵 기록이 기억을 이긴다 🪵",
     email: "newsungjae0407@gmail.com",
     github: "xeongjae",
     instagram: "",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   // blog setting (required)
   blog: {
-    title: "xlog -기록은 기억을 이긴다",
+    title: "xlog",
     description: "개발자 김성재의 기술 블로그",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
