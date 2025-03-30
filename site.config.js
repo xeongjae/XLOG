@@ -23,6 +23,14 @@ const CONFIG = {
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app",
 
+  // projects configuration
+  projects: [
+    {
+      name: "XLOG",
+      href: "https://github.com/xeongjae/XLOG",
+    },
+  ],
+
   // notion configuration (required)
   notionConfig: {
     pageId: "1c623905fa94804bbbaaf695540cb77c", // 새로운 ID로 업데이트
