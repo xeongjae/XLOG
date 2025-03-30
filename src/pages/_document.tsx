@@ -6,12 +6,8 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
-          <link rel="icon" href="/biber.png" />
-          <link
-            rel="apple-touch-icon"
-            sizes="192x192"
-            href="/biber.png"
-          ></link>
+          <link rel="icon" href="/beaver.svg" />
+          <link rel="beaver" sizes="192x192" href="/beaver.svg"></link>
           <link
             rel="alternate"
             type="application/rss+xml"
