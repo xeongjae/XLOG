@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "seongjae",
+    name: "xeongjae",
     image: "/biber.png",
     role: "frontend developer",
     bio: "프론트엔드 전반에 관심있습니다.",
@@ -11,7 +11,7 @@ const CONFIG = {
   },
   // blog setting (required)
   blog: {
-    title: "🪵 beavlog",
+    title: "Seongjae Log",
     description: "개발자 김성재의 기술 블로그",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
@@ -49,7 +49,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "xeongjae/xeongjae-log",
+      repo: "xeongjae/XLOG",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
@@ -57,7 +57,7 @@ const CONFIG = {
   cusdis: {
     enable: false,
     config: {
-      host: "https://cusdis.com",
+      host: "",
       appid: "",
     },
   },
