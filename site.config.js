@@ -8,6 +8,7 @@ const CONFIG = {
     email: "newsungjae0407@gmail.com",
     github: "xeongjae",
     instagram: "",
+    linkedin: "",
   },
   // blog setting (required)
   blog: {
