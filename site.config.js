@@ -13,7 +13,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "xlog",
-    description: "개발자 김성재의 기술 블로그",
+    description: "프론트엔드 개발자 김성재의 기술 블로그",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
