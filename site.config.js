@@ -12,7 +12,7 @@ const CONFIG = {
   },
   // blog setting (required)
   blog: {
-    title: "Seongjae Log",
+    title: "xlog -기록은 기억을 이긴다",
     description: "개발자 김성재의 기술 블로그",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
