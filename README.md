@@ -8,6 +8,5 @@ XLOG는 개인 기술 블로그 플랫폼입니다. Notion을 CMS(Content Manage
 
 - 🌓 다크 모드 지원
 - 📱 반응형 디자인
-- 💬 Utterances 댓글 시스템
 - 📝 Notion을 통한 콘텐츠 관리
 - 🔍 SEO 최적화
